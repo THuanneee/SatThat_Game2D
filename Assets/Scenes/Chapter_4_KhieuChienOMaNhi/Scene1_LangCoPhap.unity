@@ -7734,7 +7734,7 @@ GameObject:
   - component: {fileID: 180710439}
   - component: {fileID: 180710438}
   - component: {fileID: 180710437}
-  m_Layer: 7
+  m_Layer: 9
   m_Name: Canvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12076,7 +12076,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5601909403146366956, guid: d890475ec569950498a4ff2279928dbb, type: 3}
       propertyPath: m_Layer
-      value: 7
+      value: 9
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -15083,7 +15083,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 45747902576262266, guid: d95e5777f37cd034cb52f5a93254c64f, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -5.5
+      value: 160
       objectReference: {fileID: 0}
     - target: {fileID: 45747902576262266, guid: d95e5777f37cd034cb52f5a93254c64f, type: 3}
       propertyPath: m_LocalPosition.y
@@ -15127,7 +15127,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 753010496982842709, guid: d95e5777f37cd034cb52f5a93254c64f, type: 3}
       propertyPath: m_RenderMode
-      value: 2
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 828126929197767542, guid: d95e5777f37cd034cb52f5a93254c64f, type: 3}
       propertyPath: boatMask.m_Bits
@@ -15135,11 +15135,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 828126929197767542, guid: d95e5777f37cd034cb52f5a93254c64f, type: 3}
       propertyPath: bossLayer.m_Bits
-      value: 128
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 828126929197767542, guid: d95e5777f37cd034cb52f5a93254c64f, type: 3}
       propertyPath: enemyLayer.m_Bits
-      value: 1024
+      value: 128
       objectReference: {fileID: 0}
     - target: {fileID: 1189846675175799109, guid: d95e5777f37cd034cb52f5a93254c64f, type: 3}
       propertyPath: m_SortingOrder
@@ -15151,43 +15151,43 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1299812074247507223, guid: d95e5777f37cd034cb52f5a93254c64f, type: 3}
       propertyPath: m_Pivot.x
-      value: 0.5
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1299812074247507223, guid: d95e5777f37cd034cb52f5a93254c64f, type: 3}
       propertyPath: m_Pivot.y
-      value: 0.5
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1299812074247507223, guid: d95e5777f37cd034cb52f5a93254c64f, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 1920
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1299812074247507223, guid: d95e5777f37cd034cb52f5a93254c64f, type: 3}
       propertyPath: m_SizeDelta.y
-      value: 1080
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1299812074247507223, guid: d95e5777f37cd034cb52f5a93254c64f, type: 3}
       propertyPath: m_LocalScale.x
-      value: 2.6666667
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1299812074247507223, guid: d95e5777f37cd034cb52f5a93254c64f, type: 3}
       propertyPath: m_LocalScale.y
-      value: 2.6666667
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1299812074247507223, guid: d95e5777f37cd034cb52f5a93254c64f, type: 3}
       propertyPath: m_LocalScale.z
-      value: 2.6666667
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1299812074247507223, guid: d95e5777f37cd034cb52f5a93254c64f, type: 3}
       propertyPath: m_LocalRotation.x
-      value: -0
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1299812074247507223, guid: d95e5777f37cd034cb52f5a93254c64f, type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1299812074247507223, guid: d95e5777f37cd034cb52f5a93254c64f, type: 3}
       propertyPath: m_LocalRotation.z
-      value: -0
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1299812074247507223, guid: d95e5777f37cd034cb52f5a93254c64f, type: 3}
       propertyPath: m_AnchoredPosition.x
@@ -15195,7 +15195,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1299812074247507223, guid: d95e5777f37cd034cb52f5a93254c64f, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 0.07
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1635826470553388190, guid: d95e5777f37cd034cb52f5a93254c64f, type: 3}
       propertyPath: m_Name
@@ -15209,6 +15209,10 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 8
       objectReference: {fileID: 0}
+    - target: {fileID: 2203561287806897450, guid: d95e5777f37cd034cb52f5a93254c64f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 845990729, guid: 59f59fd441d47d84fb874f6b08d8f5a2, type: 3}
     - target: {fileID: 3230277849915226998, guid: d95e5777f37cd034cb52f5a93254c64f, type: 3}
       propertyPath: m_Layer
       value: 8
@@ -15315,7 +15319,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7816515200562110020, guid: d95e5777f37cd034cb52f5a93254c64f, type: 3}
       propertyPath: m_PresetInfoIsWorld
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8143484647670565428, guid: d95e5777f37cd034cb52f5a93254c64f, type: 3}
       propertyPath: maxHealth
@@ -27121,7 +27125,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 601014337}
-  m_Layer: 7
+  m_Layer: 9
   m_Name: GameObject
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -42618,7 +42622,7 @@ GameObject:
   - component: {fileID: 989315731}
   - component: {fileID: 989315733}
   - component: {fileID: 989315732}
-  m_Layer: 7
+  m_Layer: 9
   m_Name: Background
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -45085,7 +45089,7 @@ GameObject:
   - component: {fileID: 1050793609}
   - component: {fileID: 1050793611}
   - component: {fileID: 1050793610}
-  m_Layer: 7
+  m_Layer: 9
   m_Name: Image
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -90678,7 +90682,7 @@ GameObject:
   - component: {fileID: 2060091040}
   - component: {fileID: 2060091042}
   - component: {fileID: 2060091041}
-  m_Layer: 7
+  m_Layer: 9
   m_Name: FillImage
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -94756,7 +94760,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8262992472563424956, guid: 997339ae0e5447a4b8f8fc70cd7d7e18, type: 3}
       propertyPath: m_Layer
-      value: 7
+      value: 9
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
