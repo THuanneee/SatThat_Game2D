@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\GitHub\\SatThat_Game2D\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FB26761D-C196-E751-0489-64D557D92609}|Assembly-CSharp.csproj|c:\\users\\admin\\documents\\github\\satthat_game2d\\assets\\behavior designer\\runtime\\tasks\\unity\\rigidbody2d\\getvelocity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB26761D-C196-E751-0489-64D557D92609}|Assembly-CSharp.csproj|solutionrelative:assets\\behavior designer\\runtime\\tasks\\unity\\rigidbody2d\\getvelocity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FB26761D-C196-E751-0489-64D557D92609}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Documents\\GitHub\\SatThat_Game2D\\Assets\\Scripts\\Characters\\Player\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB26761D-C196-E751-0489-64D557D92609}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Characters\\Player\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FB26761D-C196-E751-0489-64D557D92609}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Documents\\GitHub\\SatThat_Game2D\\assets\\bosscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB26761D-C196-E751-0489-64D557D92609}|Assembly-CSharp.csproj|solutionrelative:assets\\bosscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB26761D-C196-E751-0489-64D557D92609}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Documents\\GitHub\\SatThat_Game2D\\Assets\\Scripts\\Characters\\Player\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB26761D-C196-E751-0489-64D557D92609}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Characters\\Player\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FB26761D-C196-E751-0489-64D557D92609}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Documents\\GitHub\\SatThat_Game2D\\Assets\\Scripts\\Characters\\Enemy\\EnemyPatrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB26761D-C196-E751-0489-64D557D92609}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Characters\\Enemy\\EnemyPatrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FB26761D-C196-E751-0489-64D557D92609}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Documents\\GitHub\\SatThat_Game2D\\assets\\scripts\\environment\\questsystem\\questmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{FB26761D-C196-E751-0489-64D557D92609}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Documents\\GitHub\\SatThat_Game2D\\Assets\\Scripts\\UI\\Minigame\\AnvilInteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB26761D-C196-E751-0489-64D557D92609}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\UI\\Minigame\\AnvilInteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB26761D-C196-E751-0489-64D557D92609}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Documents\\GitHub\\SatThat_Game2D\\Assets\\Scripts\\Characters\\Enemy\\EnemyPatrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB26761D-C196-E751-0489-64D557D92609}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Characters\\Enemy\\EnemyPatrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,21 +30,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GetVelocity.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\SatThat_Game2D\\Assets\\Behavior Designer\\Runtime\\Tasks\\Unity\\Rigidbody2D\\GetVelocity.cs",
-              "RelativeDocumentMoniker": "Assets\\Behavior Designer\\Runtime\\Tasks\\Unity\\Rigidbody2D\\GetVelocity.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\SatThat_Game2D\\Assets\\Behavior Designer\\Runtime\\Tasks\\Unity\\Rigidbody2D\\GetVelocity.cs",
-              "RelativeToolTip": "Assets\\Behavior Designer\\Runtime\\Tasks\\Unity\\Rigidbody2D\\GetVelocity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-12T13:27:14.046Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -57,21 +40,23 @@
               "RelativeDocumentMoniker": "Assets\\BossController.cs",
               "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\SatThat_Game2D\\Assets\\BossController.cs",
               "RelativeToolTip": "Assets\\BossController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFYBAAAAAAAAAAAAAGIBAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T03:03:49.823Z"
+              "WhenOpened": "2025-01-07T03:03:49.823Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "EnemyPatrol.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\SatThat_Game2D\\Assets\\Scripts\\Characters\\Enemy\\EnemyPatrol.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Characters\\Enemy\\EnemyPatrol.cs",
               "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\SatThat_Game2D\\Assets\\Scripts\\Characters\\Enemy\\EnemyPatrol.cs",
               "RelativeToolTip": "Assets\\Scripts\\Characters\\Enemy\\EnemyPatrol.cs",
-              "ViewState": "AgIAAIEAAAAAAAAAAAAqwKQAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAMIAAAAAAAAAAAAiwMYAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-12T11:47:24.066Z"
+              "WhenOpened": "2025-01-12T11:47:24.066Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -102,15 +87,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "PlayerMovement.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\SatThat_Game2D\\Assets\\Scripts\\Characters\\Player\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Characters\\Player\\PlayerMovement.cs",
               "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\SatThat_Game2D\\Assets\\Scripts\\Characters\\Player\\PlayerMovement.cs",
               "RelativeToolTip": "Assets\\Scripts\\Characters\\Player\\PlayerMovement.cs",
-              "ViewState": "AgIAAIEAAAAAAAAAAAAuwJMAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAANsAAAAAAAAAAAAwwPcAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T03:33:28.901Z"
+              "WhenOpened": "2024-12-25T03:33:28.901Z",
+              "EditorCaption": ""
             }
           ]
         }
